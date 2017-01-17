@@ -1,0 +1,6 @@
+language: android
+android:
+  components:
+    # Update Android SDK Tools
+    - build-tools-2.2.3
+
