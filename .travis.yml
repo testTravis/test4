@@ -4,3 +4,5 @@ android:
     # Update Android SDK Tools
     - build-tools-2.2.3
 
+before_install:
+ - chmod +x gradlew
